@@ -13,7 +13,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "RenanLiberato\\Exposer": "src/"
+            "RenanLiberato\\Exposer\\": "src/"
         },
         "files": [
             "src/functions.php"
