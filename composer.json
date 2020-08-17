@@ -1,0 +1,22 @@
+{
+    "name": "renanliberato/exposer",
+    "description": "PHP package to render UI on components",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Renan Liberato",
+            "email": "renan.libsantana@gmail.com"
+        }
+    ],
+    "version": "0.1.0",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "RenanLiberato\\Exposer": "src/"
+        },
+        "files": [
+            "src/functions.php"
+        ]
+    }
+}
