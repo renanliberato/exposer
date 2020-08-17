@@ -1,6 +1,6 @@
 {
     "name": "renanliberato/exposer",
-    "description": "PHP package to render UI on components",
+    "description": "PHP package to render UI elements as functional components",
     "type": "library",
     "license": "MIT",
     "authors": [
